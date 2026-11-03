@@ -1,0 +1,13 @@
+.venv/
+.tools/
+__pycache__/
+*.pyc
+uploads/*
+evidence/*
+reports/*
+models/*.pt
+database/*.db*
+.streamlit/secrets.toml
+.env
+.env.*
+!.env.example

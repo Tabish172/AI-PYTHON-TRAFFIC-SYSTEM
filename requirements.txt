@@ -1,0 +1,13 @@
+streamlit>=1.40,<2
+ultralytics>=8.3,<9
+opencv-python>=4.10,<5
+numpy>=1.26,<3
+pandas>=2.2,<3
+plotly>=5.24,<7
+easyocr>=1.7,<2
+fpdf2>=2.8,<3
+lap>=0.5.12
+google-genai>=1.0,<3
+python-dotenv>=1.0,<2
+scikit-learn>=1.5,<2
+tzdata>=2024.1
